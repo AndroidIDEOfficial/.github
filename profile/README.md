@@ -20,4 +20,4 @@ AndroidIDE is an Integrated Development Environment (IDE) for Android devices to
 ### Important links
 - [Website](https://androidide.com)
 - [Telegram Channel](https://t.me/AndroidIDEOfficial)
-- [Telegram Group](https://t.me/androidide_discussions)
+- [Telegram Discussions](https://t.me/androidide_discussions)
