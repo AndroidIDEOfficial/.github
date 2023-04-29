@@ -18,6 +18,9 @@ AndroidIDE is an Integrated Development Environment (IDE) for Android devices to
 - [tree-sitter-java](https://github.com/AndroidIDEOfficial/tree-sitter-java) - Java grammar for tree-sitter.
 - [tree-sitter-xml](https://github.com/AndroidIDEOfficial/tree-sitter-xml) - XML grammar for tree-sitter.
 
+## Sponsors
+
+Thanks a lot to our sponsors for supporting the AndroidIDE project. The list of sponsors can be found [here](https://github.com/sponsors/AndroidIDEOfficial).
 
 ### Important links
 - [Website](https://androidide.com)
