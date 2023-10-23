@@ -16,6 +16,7 @@ AndroidIDE is an Integrated Development Environment (IDE) for Android devices to
 - [nb-javac-android](https://github.com/AndroidIDEOfficial/nb-javac-android) - The Java Compiler used in AndroidIDE (ARCHIVED).
 - [android-tree-sitter](https://github.com/AndroidIDEOfficial/android-tree-sitter) - Android Java Bindings for the tree-sitter library. Used in AndroidIDE for syntax highlighting.
 - [tree-sitter-java](https://github.com/AndroidIDEOfficial/tree-sitter-java) - Java grammar for tree-sitter.
+- [tree-sitter-kotlin](https://github.com/AndroidIDEOfficial/tree-sitter-kotlin) - Kotlin grammar for tree-sitter.
 - [tree-sitter-xml](https://github.com/AndroidIDEOfficial/tree-sitter-xml) - XML grammar for tree-sitter.
 
 ## Sponsors
