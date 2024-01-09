@@ -17,11 +17,13 @@ AndroidIDE is an Integrated Development Environment (IDE) for Android devices to
 - [android-tree-sitter](https://github.com/AndroidIDEOfficial/android-tree-sitter) - Android Java Bindings for the tree-sitter library. Used in AndroidIDE for syntax highlighting.
 - [tree-sitter-*](https://github.com/orgs/AndroidIDEOfficial/repositories?q=tree-sitter-&type=all&language=&sort=) - Grammars for tree-sitter.
 
-## Sponsors
+## Support AndroidIDE ❤️
 
-Thanks a lot to our sponsors for supporting the AndroidIDE project. The list of sponsors can be found [here](https://github.com/sponsors/AndroidIDEOfficial).
+The project's success depends on your support. Consider contributing through these options:
+- [GitHub Sponsors](https://github.com/sponsors/AndroidIDEOfficial)
+- [OpenCollective](https://opencollective.com/androidide)
 
 ### Important links
-- [Website](https://androidide.com)
+- [Website](https://m.androidide.com)
 - [Telegram Channel](https://t.me/AndroidIDEOfficial)
 - [Telegram Discussions](https://t.me/androidide_discussions)
