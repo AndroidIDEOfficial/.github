@@ -19,6 +19,10 @@ AndroidIDE is an Integrated Development Environment (IDE) for Android devices to
 
 ## Support AndroidIDE ❤️
 
+> [!WARNING]
+>
+> This project is not maintained anymore.
+
 The project's success depends on your support. Consider contributing through these options:
 - [GitHub Sponsors](https://github.com/sponsors/AndroidIDEOfficial)
 - [OpenCollective](https://opencollective.com/androidide)
